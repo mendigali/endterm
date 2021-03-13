@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "type": "Mac",
+      "name": "MacBook Air",
+      "description": "Power. It’s in the Air.",
+      "price": 999.00,
+      "picture": "macbook-air.png"
+    },
+    {
+      "id": 102,
+      "type": "Mac",
+      "name": "MacBook Pro 13",
+      "description": "All systems Pro.",
+      "price": 1299.00,
+      "picture": "macbook-pro-13.png"
+    },
+    {
+      "id": 103,
+      "type": "Mac",
+      "name": "MacBook Pro 16",
+      "description": "The best for the brightest.",
+      "price": 2399.00,
+      "picture": "macbook-pro-16.png"
+    },
+    {
+      "id": 104,
+      "type": "iPhone",
+      "name": "iPhone 12 Pro",
+      "description": "It’s a leap year.",
+      "price": 999.00,
+      "picture": "iphone-12-pro.png"
+    },
+    {
+      "id": 105,
+      "type": "iPhone",
+      "name": "iPhone 12",
+      "description": "Blast past fast.",
+      "price": 829.00,
+      "picture": "iphone-12.png"
+    },
+    {
+      "id": 106,
+      "type": "iPhone",
+      "name": "iPhone SE",
+      "description": "Lots to love. Less to spend.",
+      "price": 399.00,
+      "picture": "iphone-se.png"
+    },
+    {
+      "id": 107,
+      "type": "AirPods",
+      "name": "AirPods",
+      "description": "More magical than ever.",
+      "price": 199.00,
+      "picture": "airpods.png"
+    },
+    {
+      "id": 108,
+      "type": "AirPods",
+      "name": "AirPods Pro",
+      "description": "Magic like you’ve never heard.",
+      "price": 249.00,
+      "picture": "airpods-pro.png"
+    }
+  ]
+}
